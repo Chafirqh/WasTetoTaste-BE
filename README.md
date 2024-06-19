@@ -1,2 +1,2 @@
-# WasTetoTaste-BE
-Bangkit academy capstone auth
+# WasteToTaste Auth
+Login Register 
