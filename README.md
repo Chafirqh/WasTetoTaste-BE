@@ -22,10 +22,10 @@ MySQL (or Cloud SQL for MySQL on Google Cloud Platform)
 Google Cloud SDK (for deploying to GCP)
 ## Installation
 Clone the repository:
-```bash git clone https://github.com/yourusername/auth-backend.git ```
+```bashgit clone https://github.com/yourusername/auth-backend.git ```
 cd auth
 Install dependencies:
-```bash npm install ```
+```bashnpm install ```
 
 ### Configuration
 Set up Google Cloud SQL:
