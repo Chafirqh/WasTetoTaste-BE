@@ -37,12 +37,9 @@ Environment variables:
 Create a .env file in the root directory and add/edit the following environment variables as per your setup:
 NODE_ENV='development'
 
-### DB CONFIG
-DB_USER='YOUR_DB_USER'
+```bashDB_USER='YOUR_DB_USER'
 DB_USER_PASSWORD='YOUR_DB_USER_PASSWORD'
 DB_NAME='YOUR_DB_NAME'
 DB_HOST='YOUR_DB_HOST'
 CONNECTION_STRING='YOUR_CONNECTION_STRING'
-
-### AUTH CONFIG
-JWT_SECRET='CREATE_UP_TO_YOU'
+JWT_SECRET='CREATE_UP_TO_YOU'```
