@@ -7,11 +7,6 @@ Overview
 Prerequisites
 Installation
 Configuration
-Usage
-API Endpoints
-Security
-Contributing
-License
 
 ## Overview
 This backend service provides endpoints for user registration and login using Express.js and MySQL database hosted on Google Cloud SQL. It securely handles user authentication and manages user data in the MySQL database.
