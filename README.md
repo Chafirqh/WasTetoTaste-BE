@@ -25,7 +25,7 @@ Clone the repository:
 ```bashgit clone https://github.com/yourusername/auth-backend.git```
 cd auth
 Install dependencies:
-```bashnpm install```
+```npm install```
 
 ### Configuration
 Set up Google Cloud SQL:
