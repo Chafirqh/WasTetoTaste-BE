@@ -1,2 +1,2 @@
-# WasteToTaste Auth
+# Auth
 Login Register 
